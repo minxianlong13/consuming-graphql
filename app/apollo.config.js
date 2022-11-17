@@ -3,6 +3,6 @@ module.exports = {
     service: {
       url: "http://localhost:4000/graphql",
       skipSSLValidation: true,
-    }
-  }
-}
+    },
+  },
+};
